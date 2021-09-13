@@ -23,8 +23,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        “Нью-Йоркська Трилогія” Пола Остера є, мабуть, найяскравішою ілюстрацією
+        розгубленості постмодернізму перед реальністю.
       keyName: property
     - name: 'og:image'
       value: images/0_JfxjmIKHeQqqY3IE-57c393f9.jpg
