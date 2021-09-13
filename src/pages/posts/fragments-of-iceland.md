@@ -36,8 +36,8 @@ seo:
       value: Пол Остер і його “Нью-Йоркська Трилогія”
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        “Нью-Йоркська Трилогія” Пола Остера є, мабуть, найяскравішою ілюстрацією
+        розгубленості постмодернізму перед реальністю.
     - name: 'twitter:image'
       value: images/0_JfxjmIKHeQqqY3IE-8e7cba45.jpg
       relativeUrl: true
