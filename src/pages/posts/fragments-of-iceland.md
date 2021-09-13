@@ -27,7 +27,7 @@ seo:
         Ocean.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/0_JfxjmIKHeQqqY3IE-57c393f9.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
