@@ -39,7 +39,7 @@ seo:
         Iceland is a Nordic country between the North Atlantic and the Arctic
         Ocean.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/0_JfxjmIKHeQqqY3IE-8e7cba45.jpg
       relativeUrl: true
 template: post
 ---
