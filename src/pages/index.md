@@ -29,14 +29,14 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: TechWriter in Ukraine
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: TechWriter in Ukraine
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
