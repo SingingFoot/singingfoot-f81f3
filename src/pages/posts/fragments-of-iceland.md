@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: Пол Остер і його “Нью-Йоркська Трилогія”
       keyName: property
     - name: 'og:description'
       value: >-
