@@ -11,7 +11,9 @@ content_img_path: images/0_JfxjmIKHeQqqY3IE.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Пол Остер і його “Нью-Йоркська Трилогія”
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: >-
+    “Нью-Йоркська Трилогія” Пола Остера є, мабуть, найяскравішою ілюстрацією
+    розгубленості постмодернізму перед реальністю.
   extra:
     - name: 'og:type'
       value: article
