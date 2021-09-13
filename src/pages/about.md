@@ -31,13 +31,8 @@ seo:
       relativeUrl: true
 template: page
 ---
+Oleg Shynkarenko was born in 1976 in Zaporizhzhya. He has a degree in automation engineering and an English translator. He has been engaged in journalism and media since 2006, and live in Kyiv since 2008.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+He is the author of the paradoxical novel **Kaharlyk** (2014, English translation - 2016). His second novel, **The First Ukrainian Robots** (2015), is a series of satirical sketches in the style of Monty Python and Stanislav Lem. Both novels were nominated for the national Shevchenko Prize in Literature by the Kharkiv Museum of Literature. Oleg Shinkarenko's third novel-pamphlet "Skull" (2017) is devoted to the study of the causes of Russian aggression against Ukraine. The fourth novel **Bandera Distortion** is about the transformation of [Stepan Bandera](https://en.wikipedia.org/wiki/Stepan_Bandera) image in the media and the consciousness of modern man. His collection of short stories **How to disappear completely** (2007) received the award of the publishing house "Smoloskyp".
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+*"The most consistent absurdist in modern Ukrainian literature"* created a podcast **Philosophical Drum** for Ukrainian Public Radio, which was attended by many local and foreign intellectuals. Shynkarenko writes articles and literary criticism for many Ukrainian media, as well as for [The Daily Beast](https://www.thedailybeast.com/author/oleg-shynkarenko) (New York), [Institute for War & Peace Reporting](https://iwpr.net/about/people/oleg-shynkarenko) (London) and [Future Challenges](https://blog.futurechallenges.org/local/author/oleg-shynkarenko/) (Hamburg). 
