@@ -7,7 +7,10 @@ excerpt: >-
   between rooms and indoor and outdoor space.
 date: '2021-09-15'
 thumb_img_path: images/Natalie Handal-d6643115.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
+thumb_img_alt: >-
+  Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron
+  of the world where all nations and nationalities have mingled, but she always
+  remembers her Palestinian roots.
 content_img_path: images/Natalie Handal.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
