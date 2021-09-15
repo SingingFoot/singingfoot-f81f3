@@ -4,7 +4,7 @@ excerpt: 'Therefore, we must either be silent about history or say anything.'
 date: '2018-01-09'
 thumb_img_path: images/27657970_1843737082305281_1155606907781619023_n.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
+content_img_path: images/27657970_1843737082305281_1155606907781619023_n-13e906cb.jpg
 content_img_alt: Hikers on the trail
 seo:
   title: History is just a set of events that neither of us has a rough idea of
