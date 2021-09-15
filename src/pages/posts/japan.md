@@ -12,7 +12,10 @@ thumb_img_alt: >-
   of the world where all nations and nationalities have mingled, but she always
   remembers her Palestinian roots.
 content_img_path: images/Natalie Handal.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
+content_img_alt: >-
+  Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron
+  of the world where all nations and nationalities have mingled, but she always
+  remembers her Palestinian roots.
 seo:
   title: A Weekend in Japan
   description: >-
