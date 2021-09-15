@@ -48,7 +48,7 @@ Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron of 
 
 **You have lived in Latin America, France and the Arab World. What does the phrase “Arab World” mean to you? There are as many as 22 countries, among which there is no official Palestine, where your parents come from. But it is only partially: for example, Ukraine has recognized Palestine, Kyiv even has Palestine embassy on Ivan Fedorov Street, but the United States, Canada and most EU countries have not. What does being a Palestinian mean to you? In what part of your consciousness or identity are you Palestinian?**
 
-****![](https://miro.medium.com/max/639/1\*kRUSvAQpm-purg0sPsi2hA.png)
+![](https://miro.medium.com/max/639/1\*kRUSvAQpm-purg0sPsi2hA.png)
 
 I come from a family that was deeply rooted in Bethlehem. I am deeply rooted in this culture, and it is very important to me that my Palestinian history continues. There are currently about 12 million Palestinians in the world. Most of them live outside the Holy Land and cannot return. And those living in the West Bank in Gaza are temporarily displaced. Of course, the question remains how to solve all these problems. And I’m sure they will be resolved in the end. First of all, Israel must recognize the presence of Palestinians in its territories. We need to start a dialogue and manage how to live together. We have to see each other first. History teaches us that things never stay stable, they always turn into something else.
 
@@ -87,8 +87,6 @@ When I write about a child who is being persecuted in Palestine, I also mean a U
 This is a multi-layered poem, but it is dedicated to how love can be occupied. Bethlehem and Jerusalem are sister cities that never existed separately. There are only six kilometers between them. And now there is a wall that separates them.
 
 ![](https://miro.medium.com/max/700/1\*Pb7EP581Y_yPtoWzL2V0VQ.png)
-
-
 
 And so if someone from Bethlehem falls in love with someone from Jerusalem, they can’t be together, because they just can’t live together in one of these cities. For example, a resident of Bethlehem in Jerusalem will immediately lose his documents.
 
@@ -157,9 +155,7 @@ I do not really believe in external attributes. I believe in involvement. And I 
 
 **Many people know almost nothing about the Palestinian problems. Even as I was literally preparing for this interview, I suddenly found out that Ukraine recognizes Palestinian statehood.**
 
-****![](https://miro.medium.com/max/700/1\*M-LX1yeVh78e_Ud8sFF-rQ.png)
-
-
+\*\*\*\*![](https://miro.medium.com/max/700/1\*M-LX1yeVh78e_Ud8sFF-rQ.png)
 
 **Do you usually tell some details about Palestine before performances so that the audience can better understand your poems? Do you think that poetry needs comments and explanations in any case, because poetic language is very private, personal, and people often do not understand what is quite obvious to the author?**
 
