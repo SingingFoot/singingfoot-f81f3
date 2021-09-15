@@ -43,6 +43,10 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 template: post
+subtitle: >-
+  Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron
+  of the world where all nations and nationalities have mingled, but she always
+  remembers her Palestinian roots.
 ---
 Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron of the world where all nations and nationalities have mingled, but she always remembers her Palestinian roots. Handal writes for Vanity Fair, Guernica Magazine, The Guardian, The New York Times, The Nation, Virginia Quarterly Review, Ploughshares, and her plays are performedat the John F. Kennedy Center and Westminster Abbey. An anthology of Arab poets (*The Poetry of Arab Women*) edited by her was an [Academy of American Poets](https://en.wikipedia.org/wiki/Academy_of_American_Poets) bestseller, named one of the top 10 Feminist Books by *The Guardian*, and it won the [PEN Oakland/Josephine Miles Literary Award](https://en.wikipedia.org/wiki/PEN_Oakland/Josephine_Miles_Literary_Award).
 
