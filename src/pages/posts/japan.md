@@ -164,7 +164,7 @@ I do not really believe in external attributes. I believe in involvement. And I 
 
 **Many people know almost nothing about the Palestinian problems. Even as I was literally preparing for this interview, I suddenly found out that Ukraine recognizes Palestinian statehood.**
 
-\*\*\*\*![](https://miro.medium.com/max/700/1\*M-LX1yeVh78e_Ud8sFF-rQ.png)
+![](https://miro.medium.com/max/700/1\*M-LX1yeVh78e_Ud8sFF-rQ.png)
 
 **Do you usually tell some details about Palestine before performances so that the audience can better understand your poems? Do you think that poetry needs comments and explanations in any case, because poetic language is very private, personal, and people often do not understand what is quite obvious to the author?**
 
