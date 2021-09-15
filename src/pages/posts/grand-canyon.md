@@ -1,10 +1,5 @@
 ---
 title: 'Alain Tanner “Light Years Away” (Les Années lumière, 1981)'
-excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
 date: '2021-09-15'
 thumb_img_path: images/Tanner Light Years Away.jpeg
 thumb_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981.'
