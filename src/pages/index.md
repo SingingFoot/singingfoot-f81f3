@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Oleh Shynkarenko.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I create images from texts, sounds and pictures as well as technical
+      documentation for soft and hardware.
   - section_id: about
     type: section_content
     title: About
