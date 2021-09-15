@@ -53,6 +53,8 @@ subtitle: >-
   of the world where all nations and nationalities have mingled, but she always
   remembers her Palestinian roots.
 ---
+*Photo from *[*nathaliehandal.com*](https://www.nathaliehandal.com/)
+
 Palestinian poet Natalie Handal lives in New York, the cosmopolitan cauldron of the world where all nations and nationalities have mingled, but she always remembers her Palestinian roots. Handal writes for Vanity Fair, Guernica Magazine, The Guardian, The New York Times, The Nation, Virginia Quarterly Review, Ploughshares, and her plays are performedat the John F. Kennedy Center and Westminster Abbey. An anthology of Arab poets (*The Poetry of Arab Women*) edited by her was an [Academy of American Poets](https://en.wikipedia.org/wiki/Academy_of_American_Poets) bestseller, named one of the top 10 Feminist Books by *The Guardian*, and it won the [PEN Oakland/Josephine Miles Literary Award](https://en.wikipedia.org/wiki/PEN_Oakland/Josephine_Miles_Literary_Award).
 
 **You have lived in Latin America, France and the Arab World. What does the phrase “Arab World” mean to you? There are as many as 22 countries, among which there is no official Palestine, where your parents come from. But it is only partially: for example, Ukraine has recognized Palestine, Kyiv even has Palestine embassy on Ivan Fedorov Street, but the United States, Canada and most EU countries have not. What does being a Palestinian mean to you? In what part of your consciousness or identity are you Palestinian?**
