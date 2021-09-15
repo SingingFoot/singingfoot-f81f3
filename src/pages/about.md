@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/LAR_3443.jpg
+subtitle: Oleh Shynkarenko is a writer and a media producer.
+img_path: images/Cover_1000.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me

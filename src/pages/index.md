@@ -5,17 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Oleh Shynkarenko.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I create images from texts, sounds and pictures as well as technical
+      documentation for soft and hardware.
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Here you can find some of my fiction and analytical texts in Ukrainian and
+      English, as well as my user guides for software.
     actions:
       - label: Contact Me
         url: /contact
