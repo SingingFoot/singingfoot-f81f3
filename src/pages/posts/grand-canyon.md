@@ -39,6 +39,7 @@ seo:
       relativeUrl: true
 template: post
 subtitle: "Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981. Grand Prix at the 1981\_Cannes Film Festival, film adaptation of the novel by tantra teacher Daniel Odier “La Voie sauvage”, 1974) is a complete tragicomic metaphor of frustration with the realization of the goals and practical tasks of the left ideology of socialism and communism in modern bourgeois society."
+excerpt: "Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981. Grand Prix at the 1981\_Cannes Film Festival, film adaptation of the novel by tantra teacher Daniel Odier “La Voie sauvage”, 1974) is a complete tragicomic metaphor of frustration with the realization of the goals and practical tasks of the left ideology of socialism and communism in modern bourgeois society."
 ---
 **Alain Tanner**’s film “**Light Years Away**” (**Les Années lumière**, 1981. Grand Prix at the 1981 **Cannes Film Festival**, film adaptation of the novel by tantra teacher Daniel Odier “**La Voie sauvage**”, 1974) is a complete tragicomic metaphor of frustration with the realization of the goals and practical tasks of the left ideology of socialism and communism in modern bourgeois society.
 
