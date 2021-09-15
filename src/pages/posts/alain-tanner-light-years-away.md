@@ -6,21 +6,19 @@ thumb_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumiè
 content_img_path: images/Tanner Light Years Away-a8809be3.jpeg
 content_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981.'
 seo:
-  title: Hiking The Grand Canyon
+  title: Alain Tanner Light Years Away
   description: >-
-    The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-    Arizona
+    Alain Tanner Light Years Away
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Hiking The Grand Canyon
+      value: Alain Tanner Light Years Away
       keyName: property
     - name: 'og:description'
       value: >-
-        The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-        Arizona
+        Alain Tanner Light Years Away
       keyName: property
     - name: 'og:image'
       value: images/8.jpg
@@ -29,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Hiking The Grand Canyon
+      value: Alain Tanner Light Years Away
     - name: 'twitter:description'
       value: >-
         The Grand Canyon is a steep-sided canyon carved by the Colorado River in

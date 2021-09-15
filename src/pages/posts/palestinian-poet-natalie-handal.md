@@ -16,7 +16,7 @@ content_img_alt: >-
   of the world where all nations and nationalities have mingled, but she always
   remembers her Palestinian roots.
 seo:
-  title: A Weekend in Japan
+  title: Palestinian poet Natalie Handal
   description: >-
     The Shrines of Ise have been celebrated as the prototype of Japanese
     architecture
@@ -25,12 +25,11 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: A Weekend in Japan
+      value: Palestinian poet Natalie Handal
       keyName: property
     - name: 'og:description'
       value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+        Palestinian poet Natalie Handal
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -39,11 +38,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: A Weekend in Japan
+      value: Palestinian poet Natalie Handal
     - name: 'twitter:description'
       value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
+        Palestinian poet Natalie Handal
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
