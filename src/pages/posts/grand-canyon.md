@@ -1,5 +1,5 @@
 ---
-title: Hiking The Grand Canyon
+title: 'Alain Tanner “Light Years Away” (Les Années lumière, 1981)'
 excerpt: >-
   The Grand Canyon is a steep-sided canyon carved by the Colorado River in
   Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
