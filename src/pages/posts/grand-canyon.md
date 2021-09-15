@@ -7,7 +7,7 @@ excerpt: >-
   meters).
 date: '2021-09-15'
 thumb_img_path: images/Tanner Light Years Away.jpeg
-thumb_img_alt: Hikers on the trail
+thumb_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981.'
 content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
 seo:
