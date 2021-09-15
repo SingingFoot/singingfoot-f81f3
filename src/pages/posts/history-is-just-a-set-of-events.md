@@ -1,16 +1,14 @@
 ---
 title: History is just a set of events that neither of us has a rough idea of
-excerpt: >-
-  Therefore, we must either be silent about history or say anything.
+excerpt: 'Therefore, we must either be silent about history or say anything.'
 date: '2018-01-09'
-thumb_img_path: images/6.jpg
+thumb_img_path: images/27657970_1843737082305281_1155606907781619023_n.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 seo:
   title: History is just a set of events that neither of us has a rough idea of
-  description: >-
-    Therefore, we must either be silent about history or say anything.
+  description: 'Therefore, we must either be silent about history or say anything.'
   extra:
     - name: 'og:type'
       value: article
@@ -19,8 +17,7 @@ seo:
       value: History is just a set of events that neither of us has a rough idea of
       keyName: property
     - name: 'og:description'
-      value: >-
-        Therefore, we must either be silent about history or say anything.
+      value: 'Therefore, we must either be silent about history or say anything.'
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
@@ -31,8 +28,7 @@ seo:
     - name: 'twitter:title'
       value: History is just a set of events that neither of us has a rough idea of
     - name: 'twitter:description'
-      value: >-
-        Therefore, we must either be silent about history or say anything.
+      value: 'Therefore, we must either be silent about history or say anything.'
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
