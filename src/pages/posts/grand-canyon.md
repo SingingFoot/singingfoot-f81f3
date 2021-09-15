@@ -9,7 +9,7 @@ date: '2021-09-15'
 thumb_img_path: images/Tanner Light Years Away.jpeg
 thumb_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981.'
 content_img_path: images/Tanner Light Years Away-a8809be3.jpeg
-content_img_alt: Hikers on the trail
+content_img_alt: 'Alain Tanner’s film “Light Years Away” (Les Années lumière, 1981.'
 seo:
   title: Hiking The Grand Canyon
   description: >-
