@@ -55,7 +55,7 @@ In addition, the old man talks to vultures and owls (this is clearly a metaphor 
 “*The fire of Leninism illuminates our path,
 The whole world is rising to storm capital!
 The two classes clashed in the last battle;
-Our slogan is the World Soviet Union!* “).
+Our slogan is the World Soviet Union!* “ [^1]).
 
 At night, a crazy old man often has a dream where all the old cars from his landfill are repaired (communist theory proved effective and led to economic prosperity). He instructs Jonas to repair all the cars without money, tools and spare parts and constantly scolds him for various trifles. After another quarrel, a guy out of hatred for the old idiot just sets fire to this dump at night.
 
@@ -70,3 +70,9 @@ Alain Tanner was once fascinated by left-wing ideology, believing in the victory
 > «Un jour, en discutant avec une classe d’une école de cinéma, je posai aux étudiants la colle suivante: «Savez-vous pourquoi on dit que le découpage est de droite et le montage de gauche?» Silence effaré dans les rangs. Trente ans plus tôt, quelqu’un aurait eu la réponse, et aujourd’hui, c’est comme si j’avais parlé chinois».
 
 Tanner has been making movies for over 60 years, has become a true classic, but among moviegoers is virtually unknown. This, in particular, was facilitated by his principle: “Cinema should not make money on beautiful fairy tales, but tell the truth about life.” Following this principle, you can only come to a commercial failure and complete oblivion, which eventually happened to Tanner.
+
+[^1]: Russian original:
+Огонь ленинизма наш путь освещает,
+На штурм капитала весь мир поднимает!
+Два класса столкнулись в последнем бою;
+Наш лозунг — Всемирный Советский Союз!
