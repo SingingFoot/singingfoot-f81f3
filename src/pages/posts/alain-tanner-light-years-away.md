@@ -71,4 +71,4 @@ Alain Tanner was once fascinated by left-wing ideology, believing in the victory
 
 Tanner has been making movies for over 60 years, has become a true classic, but among moviegoers is virtually unknown. This, in particular, was facilitated by his principle: “Cinema should not make money on beautiful fairy tales, but tell the truth about life.” Following this principle, you can only come to a commercial failure and complete oblivion, which eventually happened to Tanner.
 
-[^1]: Russian original: Огонь ленинизма наш путь освещает, на штурм капитала весь мир поднимает! Два класса столкнулись в последнем бою; наш лозунг — Всемирный Советский Союз!
+[^1]: Russian original: Огонь ленинизма наш путь освещает, на штурм капитала весь мир поднимает! Два класса столкнулись в последнем бою; наш лозунг — Всемирный Советский Союз!!!
