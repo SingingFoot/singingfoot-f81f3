@@ -4,7 +4,7 @@ subtitle: >-
   Чеський режисер Їржи Стейскал зняв документальний фільм про залишки села
   Позняки посеред сучасного Києва.
 date: '2021-11-06'
-content_img_alt: st
+content_img_alt: steiskal
 excerpt: lorem-ipsum
 seo:
   title: ''
