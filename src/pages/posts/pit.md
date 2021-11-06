@@ -5,7 +5,7 @@ subtitle: >-
   Позняки посеред сучасного Києва.
 date: '2021-11-06'
 content_img_alt: steiskal
-excerpt: lorem-ipsum
+excerpt: steiskal
 seo:
   title: ''
   description: ''
