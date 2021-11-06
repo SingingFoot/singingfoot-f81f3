@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: '"Яма": право на дім'
 subtitle: lorem-ipsum
 date: '2021-11-06'
 thumb_img_alt: lorem-ipsum
