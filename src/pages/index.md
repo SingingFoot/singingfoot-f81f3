@@ -30,7 +30,7 @@ sections:
     posts_number: 0
     actions: []
     type: section_posts
-    section_id: pit-right-to-the-house
+    section_id: pit-the-right-to-the-house
 seo:
   title: TechWriter in Ukraine
   description: The preview of the Fresh theme
