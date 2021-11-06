@@ -26,11 +26,6 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
-  - title: 'Яма: право на дім'
-    posts_number: 1
-    actions: []
-    type: section_posts
-    section_id: pit-the-right-to-the-house
 seo:
   title: TechWriter in Ukraine
   description: The preview of the Fresh theme
