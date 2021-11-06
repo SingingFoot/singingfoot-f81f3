@@ -26,7 +26,7 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
-  - title: lorem-ipsum
+  - title: 'Яма: право на дім'
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
