@@ -16,7 +16,6 @@ thumb_img_path: images/steiskal.jpeg
 thumb_img_alt: steiskal
 content_img_path: images/steiskal-8b05a7dc.jpeg
 ---
-![](http://www.korydor.in.ua/th.php?src=http://www.korydor.in.ua/wp-content/uploads/2015/03/jirzi.jpg\&w=540\&h=345\&q=100)
 
 *Їржі Стейскал та героїня фільму Наталя Юрченко*
 
