@@ -14,7 +14,7 @@ template: post
 thumb_img_path: images/steiskal.jpeg
 thumb_img_alt: steiskal
 content_img_path: images/steiskal-8b05a7dc.jpeg
-excerpt: Xtc
+excerpt: Чеський режисер
 ---
 *Їржі Стейскал та героїня фільму Наталя Юрченко*
 
